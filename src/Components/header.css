@@ -1,0 +1,19 @@
+header{
+    position: fixed;
+    z-index: 1000;
+    text-align: center;
+    background: #00754d;
+}
+ul{
+    list-style: none;
+    padding:0px;
+}
+ul li{
+    display: inline-block;
+    margin-right:20px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}

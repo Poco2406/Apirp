@@ -1,0 +1,38 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #da291c;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    font-family: 'Helvetica Neue', sans-serif;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
